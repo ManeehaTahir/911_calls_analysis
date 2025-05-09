@@ -1,6 +1,6 @@
 # 911 Calls Data Analysis
 
-A data analysis and visualization project focused on 911 emergency calls in Montgomery County, Pennsylvania. This project was completed as part of the **Coursera practice project** from the course [Applied Data Science with Python and SQL](https://www.coursera.org/projects/practice-applied-data-science-python-sql).
+A data analysis and visualization project focused on 911 emergency calls in Montgomery County, Pennsylvania. This project was completed as part of the **Coursera practice project** from the course [Applied Data Analytics with Python and SQL](https://www.coursera.org/learn/applied-data-analytics-with-python-and-sql).
 
 ##  Objective
 
@@ -37,7 +37,19 @@ To explore and analyze real-world emergency call data using Python, with a focus
   - Month
 - **Heatmap** to visualize call volume across days and reasons.
 
+## What I Observed
 
+-Most people call 911 for medical emergencies, then for traffic accidents, and then for fire-related issues.
+-Fridays and weekends had more calls—maybe because more people are out or accidents happen more.
+-Fire calls were highest in summer months, possibly due to heat or fireworks.
+-If we had location data, we could also see which areas need more help, but that’s not part of this version yet.
+
+ How this helps police and emergency services:
+
+-They can send more teams or vehicles during busy times, like weekends or evenings.
+-They can be prepared in advance if they see a trend—for example, more fires in July.
+-They can work smarter, not harder, by focusing on the places and times where help is needed most.
+-This small project shows how data can help make cities safer and emergency systems more efficient.
 
 ##  What I Learned
 
